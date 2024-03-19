@@ -1,1 +1,1 @@
-# RecSysCourse
+# RecSys
